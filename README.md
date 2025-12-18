@@ -162,4 +162,4 @@ Results
 
 Recall@10: 0.X (acceptable for RAG-based recommendation)
 
-Demonstrates strong semantic retrieval with LLM re-ranking
+
